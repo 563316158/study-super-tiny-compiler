@@ -1,0 +1,13 @@
+{
+  "name": "super-tiny-compiler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jerry.Qin 秦利杰 <jerry.qin@youniverse.cc>",
+  "license": "MIT",
+  "dependencies": {
+    "vitest": "^0.23.1"
+  },
+  "scripts": {
+    "test": "vitest --run"
+  }
+}
